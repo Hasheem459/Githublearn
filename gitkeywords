@@ -1,0 +1,18 @@
+git init
+git add .
+git status
+git commit -m "msg"
+git log --oneline
+git show commitid
+git remote add origin url
+git push origin main
+git tag -a tagname -m msg commitid
+git tag
+git branch
+git branch name
+git checkout branchname
+git tag list
+git log 
+git commit -a -m "msg"
+git stash
+git stash list
